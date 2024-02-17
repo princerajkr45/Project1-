@@ -1,0 +1,62 @@
+.navbar-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0px;
+}
+.grow-list{
+  margin-left: -180px;
+   
+}
+img[alt="brand-logo"]{
+    width: 120px;
+    height: auto;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+    gap: 30px;
+    color: gray;
+}
+.list-item b{
+    color: black;
+}
+.nav-button{
+    width: 100px;
+    height: 40px;
+    background-color: blue;
+    border: 0px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+}
+.banner-container{
+    display: flex;
+}
+.content{
+    margin-left: 80px;
+}
+.heading-text{
+    font-size: 40px;
+    font-family:Arial;
+    font-weight: 600;
+    color: purple;
+}
+span{
+    color: blueviolet;
+}
+.description{
+    padding: 10px 0px;
+}
+img[alt="illustration"]{
+    width: 600px;
+}
+.nav-button-btn{
+   
+    width: 150px;
+    height: 50px;
+    background-color: blue;
+    border: 0px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+}
